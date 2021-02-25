@@ -1,3 +1,4 @@
 {
+  upcased_name: @upcased_name,
   message: "HI",
 }
